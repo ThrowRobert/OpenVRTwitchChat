@@ -1,5 +1,3 @@
-### This Repo is marked for merging and eventually deletion. Please see [#18](https://github.com/Hotrian/OpenVRTwitchChat/issues/18) for more details. 
-====
 ### This is the new home of the TwitchChatOverlay repository!
 ### It was previously located [over here](https://github.com/Hotrian/HeadlessOverlayToolkit/tree/twitchtest)!
 #### See also my [OpenVRDesktopDisplayPortal](https://github.com/Hotrian/OpenVRDesktopDisplayPortal) for putting any desktop window into VR :D
